@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Usage: $0 <input>" exit=1
+tr -d cC
